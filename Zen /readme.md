@@ -1,0 +1,64 @@
+### well not much to say here he clowned on my friend (drexxy) and is using sofmain driver
+- his "private" cheat uses netconnections as showcased by drexxy in his repo (will link in a bit)
+
+### proof of chatgpt
+```cpp
+static inline bool DiscordHook(HWND& hwnd_out) { // DiscordHook is NOT human naming
+    HWND hwnd = nullptr;
+
+    while ((hwnd = FindWindowExA(nullptr, hwnd, "Chrome_WidgetWin_1", nullptr)) != nullptr) {
+        DWORD pid = 0;
+        GetWindowThreadProcessId(hwnd, &pid);
+
+        HANDLE hProcess = OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid); // open process = dtc yet he claims fud?
+        if (hProcess) {
+            char exePath[MAX_PATH];
+            if (GetModuleFileNameExA(hProcess, nullptr, exePath, MAX_PATH)) {
+                std::string path = exePath;
+                if (path.find("Discord") != std::string::npos) {
+                    hwnd_out = hwnd;
+                    CloseHandle(hProcess);
+                    return true;
+                }
+            }
+            CloseHandle(hProcess);
+        }
+    }
+    return false;
+}
+
+void OverlayRender()
+{
+    HWND hwndout = nullptr;
+    if (!DiscordHook(hwndout)) {
+        MessageBoxA(0, "Couldn't find Discord overlay window.", "Error", MB_ICONERROR);
+        return;
+    }
+    MARGINS margin = { -1 };
+    DwmExtendFrameIntoClientArea(hwndout, &margin);
+    SetWindowLong(hwndout, GWL_EXSTYLE, GetWindowLong(hwndout, GWL_EXSTYLE) | WS_EX_LAYERED | WS_EX_TRANSPARENT | WS_EX_TOOLWINDOW);
+    SetLayeredWindowAttributes(hwndout, RGB(0, 0, 0), 255, LWA_ALPHA);
+    ShowWindow(hwndout, SW_SHOW);
+    UpdateWindow(hwndout);
+    MyWnd = hwndout; // i dont even wanna comment on this its so aids </3
+}
+```
+
+
+### proof of sofmain driver
+```cpp
+// in his free cheat, but still dont use sofmain.
+// he also didn't bother to remove the sofmain credits in his imgui build XD
+hDevice = CreateFileW(L"\\\\.\\sofmainud1337", 0xC0000000, 3u, 0i64, 3u, 0, 0i64);
+```
+![zen](https://github.com/user-attachments/assets/f2eb736b-2eb5-4a5a-9899-daf555c7f7c5)
+
+### the spoofer he skidded from github </3
+- https://github.com/Flxziee55/temp-spoofer-src/tree/529a099eb2c27ec36a8d0e08ba6b0f7050e0c704
+proof:
+<img width="1219" height="660" alt="Untitled design" src="https://github.com/user-attachments/assets/361a1ed2-0810-43a4-aaab-feb786456580" />
+<img width="1219" height="660" alt="NTSTATUS st = ntNtUnloadDriver( serviceStr);" src="https://github.com/user-attachments/assets/0279e524-e224-44e2-8a8a-a12579b8dc35" />
+
+
+<img width="1219" height="660" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/2d9c5237-1b9b-421c-afd5-e6f9c26c98bb" />
+
