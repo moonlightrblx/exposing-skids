@@ -1,5 +1,5 @@
 ### well not much to say here he clowned on my friend (drexxy) and is using sofmain driver
-- his "private" cheat uses netconnections as showcased by drexxy in his repo (will link in a bit)
+- his "private" cheat uses netconnections as showcased by drexxy in his repo [(zens original exposing <3)](https://github.com/Drexxyyy/exposing-skids-pt2)
 
 ### proof of chatgpt
 ```cpp
