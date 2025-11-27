@@ -4,10 +4,10 @@
 <p>EVERY one of his sources is either leaked or on github </3 </p>
 
 
-[image](image1.webp)
+![image](image1.webp)
 
 
-[image](image.webp)
+![image](image.webp)
 
 
-[image](image2.webp)
+![image](image2.webp)
