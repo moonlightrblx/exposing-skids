@@ -55,9 +55,14 @@ hDevice = CreateFileW(L"\\\\.\\sofmainud1337", 0xC0000000, 3u, 0i64, 3u, 0, 0i64
 
 ### the spoofer he skidded from github </3
 - https://github.com/Flxziee55/temp-spoofer-src/tree/529a099eb2c27ec36a8d0e08ba6b0f7050e0c704
-proof:
-<img width="1219" height="660" alt="Untitled design" src="https://github.com/user-attachments/assets/361a1ed2-0810-43a4-aaab-feb786456580" />
+- proof:
 <img width="1219" height="660" alt="NTSTATUS st = ntNtUnloadDriver( serviceStr);" src="https://github.com/user-attachments/assets/0279e524-e224-44e2-8a8a-a12579b8dc35" />
+
+
+as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the code runs.
+
+
+<img width="1219" height="660" alt="Untitled design" src="https://github.com/user-attachments/assets/361a1ed2-0810-43a4-aaab-feb786456580" />
 
 
 <img width="1219" height="660" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/2d9c5237-1b9b-421c-afd5-e6f9c26c98bb" />
