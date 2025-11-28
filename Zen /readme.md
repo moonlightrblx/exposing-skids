@@ -2,7 +2,10 @@
 - his "private" cheat uses netconnections as showcased by drexxy in his repo [(zens original exposing <3)](https://github.com/Drexxyyy/exposing-skids-pt2)
 
 ### proof of chatgpt
+<img width="1920" height="1080" alt="sd" src="https://github.com/user-attachments/assets/16917c29-8abe-4c6e-98c3-8351a835bb02" />
+
 ```cpp
+// this is a direct snippet he posted in his server proving it "wasn't pasted"
 static inline bool DiscordHook(HWND& hwnd_out) { // DiscordHook is NOT human naming
     HWND hwnd = nullptr;
 
@@ -16,6 +19,7 @@ static inline bool DiscordHook(HWND& hwnd_out) { // DiscordHook is NOT human nam
             if (GetModuleFileNameExA(hProcess, nullptr, exePath, MAX_PATH)) {
                 std::string path = exePath;
                 if (path.find("Discord") != std::string::npos) {
+                    // why not just return this? or have a global handle? ai doesn't think of these things but a human would (with any programming knowledge)
                     hwnd_out = hwnd;
                     CloseHandle(hProcess);
                     return true;
