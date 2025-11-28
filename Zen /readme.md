@@ -11,7 +11,7 @@ static inline bool DiscordHook(HWND& hwnd_out) { // DiscordHook is NOT human nam
         GetWindowThreadProcessId(hwnd, &pid);
 
         HANDLE hProcess = OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, FALSE, pid); // open process = dtc yet he claims fud?
-        if (hProcess) {
+        if (hProcess) {                                           // he also clearly doesn't understand what the `PROCESS_VM_READ` does as he doesn't read any virtual memory here? just searches the processes </3
             char exePath[MAX_PATH];
             if (GetModuleFileNameExA(hProcess, nullptr, exePath, MAX_PATH)) {
                 std::string path = exePath;
