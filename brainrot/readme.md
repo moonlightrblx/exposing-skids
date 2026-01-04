@@ -12,6 +12,7 @@
 
 ## Proof of DDOS 
 <img width="1211" height="587" alt="image" src="https://github.com/user-attachments/assets/6bf70359-4a46-4926-a5bb-4931d8004257" />
+<img width="1069" height="297" alt="image" src="https://github.com/user-attachments/assets/f16e69fc-6d8e-4886-bf58-20b782f665c7" />
 
 ## Spamming his keyauth acc
 <img width="1695" height="791" alt="image" src="https://github.com/user-attachments/assets/5f07a38d-cbcf-4080-9f5e-e185344dfb1e" />
