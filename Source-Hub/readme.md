@@ -15,3 +15,9 @@
 <p>calling other people skids and scammers when his sources are straight off github?</p>
 
 ![image](image3.PNG)
+
+
+### none of the sources shown down  below in the channels are his or are unleaked
+<p>he calls enigma a bunch of scammers yet hes selling their sources🤔</p>
+
+![image](image4.PNG)
