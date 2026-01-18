@@ -11,3 +11,7 @@
 
 
 ![image](image2.webp)
+
+<p>calling other people skids and scammers when his sources are straight off github?</p>
+
+![image](image3.png)
