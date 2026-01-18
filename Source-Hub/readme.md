@@ -14,4 +14,4 @@
 
 <p>calling other people skids and scammers when his sources are straight off github?</p>
 
-![image](image3.png)
+![image](image3.PNG)
