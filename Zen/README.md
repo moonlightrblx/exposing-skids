@@ -87,3 +87,7 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 ### doesn't understand basic c++ concepts
 <img width="1219" height="660" alt="uintptr_t pos_ptr = readuintptr_t(player_base + offsetspos); float x = readfloat(pos_ptr + 0x0); float y = readfloat(pos_ptr + 0x4); float z = readfloat(pos_ptr + 0x8);" src="https://github.com/user-attachments/assets/dfaf063e-2fdf-4c8a-8bc5-c89aefce2299" />
 
+### doesnt know how UE works?!?!?
+
+<img width="700" height="175" alt="image" src="https://github.com/user-attachments/assets/3e9fcae4-3a65-4519-9206-0e1e7383ebb6" />
+
