@@ -116,4 +116,38 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 
 <img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/0aeba919-afd4-4a3a-9c66-16e8a7953da3" />
 
+### DRIVER IOTCLS + DRIVER LINK LMAO
+this driver is NOT ud so i would not recommend using but if you need a shitty driver to test vulns on here ya go
+https://files.catbox.moe/5lvpin.sys
+#### driver iotcl dump
+```
+[+] DeviceIoControl IAT:
+    0x140067130
 
+[+] DeviceIoControl XREF @ 0x140001644
+    IOCTL: 0xB63A6C90
+      DeviceType: 0xB63A
+      Function:   0xB24
+      Method:     0
+      Access:     1
+    InBuffer: [mem + 0x-38]
+    InSize: 0x28
+
+[+] DeviceIoControl XREF @ 0x14000713F
+    IOCTL: 0x16E7E8E4
+      DeviceType: 0x16E7
+      Function:   0xA39
+      Method:     0
+      Access:     3
+    InBuffer: [mem + 0x50]
+    InSize: 0x10
+
+[+] DeviceIoControl XREF @ 0x1400071AA
+    IOCTL: 0x68F37E78
+      DeviceType: 0x68F3
+      Function:   0xF9E
+      Method:     0
+      Access:     1
+    InBuffer: [mem + 0x50]
+    InSize: 0x10
+    ```
