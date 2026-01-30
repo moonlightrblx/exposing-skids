@@ -116,6 +116,9 @@ as you see it shows as `GetProcessAddress(... "NtUnloadDriver");` just like the 
 
 <img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/0aeba919-afd4-4a3a-9c66-16e8a7953da3" />
 
+### LMAOOO
+<img width="509" height="123" alt="image" src="https://github.com/user-attachments/assets/79ffc1eb-5ea1-43d5-bb48-f0dc4074862f" />
+
 ### DRIVER IOTCLS + DRIVER LINK LMAO
 this driver is NOT ud so i would not recommend using but if you need a shitty driver to test vulns on here ya go
 https://files.catbox.moe/5lvpin.sys
