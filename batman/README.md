@@ -9,7 +9,7 @@ putting no effort into atleast hidding it 💀
 
 ## images
 
-![image](Screenshot 2026-01-30 080445.PNG)
+![image](Screenshot 2026-01-30 080445.png)
 
 
 ## details
