@@ -1,11 +1,6 @@
 ## NOTE:
-this repo is not made to hate on zen. i just wanted to show his shit was pasted. i really dont care and he is chill asf as a friend.
-\
-zen is one of the chillest ngas in com and is my fav femboy :)
+[(zens original exposing <3)](https://github.com/Drexxyyy/exposing-skids-pt2)
 
-### well not much to say here he clowned on my friend (drexxy) and is using sofmain driver
-- his "private" cheat uses netconnections as showcased by drexxy in his repo [(zens original exposing <3)](https://github.com/Drexxyyy/exposing-skids-pt2)
-- the reversed binary of his temp spoofer is included above (open in ida) aswell as the original
 ### proof of chatgpt
 <img width="1920" height="1080" alt="sd" src="https://github.com/user-attachments/assets/16917c29-8abe-4c6e-98c3-8351a835bb02" />
 
