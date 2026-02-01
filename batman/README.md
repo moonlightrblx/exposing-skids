@@ -56,7 +56,8 @@ putting no effort into atleast hidding it 💀
 
 ## source to his cheat
 https://gofile.io/d/4nrV86
-
+backup link just incase
+https://mega.nz/file/qOYj2BhC#QWlI1F_mF7DOfQdxiTeIuyo65LKeqAXJtb0ScT1SqXU
 
 ## warnings
 - i havent went thru the source
