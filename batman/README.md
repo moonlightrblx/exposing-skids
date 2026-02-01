@@ -2,6 +2,9 @@
 
 # lol
 
+banned me
+<img width="465" height="185" alt="image" src="https://github.com/user-attachments/assets/3237a894-e81a-466c-8bc2-9e0160eb7740" />
+
 <img width="237" height="57" alt="image" src="https://github.com/user-attachments/assets/09b11e03-851b-49e2-9f37-638d0bf5e36b" />
 
 
