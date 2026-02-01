@@ -7,7 +7,13 @@
 
 # proof hes a shitty person
 
-<img width="407" height="216" alt="image" src="https://github.com/user-attachments/assets/99175900-3751-4482-9079-478333118fce" />
+- <img width="341" height="133" alt="image" src="https://github.com/user-attachments/assets/ac815195-b94a-4337-902a-daccd11bddc1" />
+
+- <img width="407" height="216" alt="image" src="https://github.com/user-attachments/assets/99175900-3751-4482-9079-478333118fce" />
+
+- <img width="507" height="170" alt="image" src="https://github.com/user-attachments/assets/76d1d62f-50f0-4a8e-b0d6-10793a0ba6b8" />
+
+- <img width="815" height="796" alt="image" src="https://github.com/user-attachments/assets/2801acd8-a8a1-41ab-be76-03511a09f448" />
 
 
 # proof his private is pasted
