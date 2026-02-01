@@ -1,6 +1,16 @@
 # batman
 
-## overview
+# lol
+
+<img width="237" height="57" alt="image" src="https://github.com/user-attachments/assets/09b11e03-851b-49e2-9f37-638d0bf5e36b" />
+
+
+# proof hes a shitty person
+
+<img width="407" height="216" alt="image" src="https://github.com/user-attachments/assets/99175900-3751-4482-9079-478333118fce" />
+
+
+# proof his private is pasted
 i have some pictures under here that  show that his fortnite private and slotted are clearly skidded off 
 sources from enigma no hate towards batman hes sorta chill with me (brainz) but still dawg why are we
 putting no effort into atleast hidding it 💀
