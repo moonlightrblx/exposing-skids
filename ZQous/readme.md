@@ -5,3 +5,9 @@
 # admitting to not knowing a single lang fluently 
 
 
+- ![image](langs.png)
+
+
+## clearly using ai [kiro] in this image 
+
+- ![image](kiro.png)
