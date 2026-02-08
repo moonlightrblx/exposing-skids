@@ -19,3 +19,9 @@ wazza says he wants to learn to code c++ and claims to know a bit already and ye
 ### dosent under stand that his driver wont work without proper communications and sh1tty iotcl codes for his driver 
 ### trying to pay me to implment keyauth 💀
 - ![image](idiot.png)
+
+
+### wanting to make me do his stuff for free and cant code his own driver or anything for his cheat so results to ai 
+
+
+- ![image](otherppl.png)
