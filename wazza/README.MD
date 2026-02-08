@@ -25,3 +25,8 @@ wazza says he wants to learn to code c++ and claims to know a bit already and ye
 
 
 - ![image](otherppl.png)
+
+
+## cant take his time to do his reasearch or get info on new patches/updates
+
+- ![image](offsets.png)
