@@ -30,3 +30,7 @@ wazza says he wants to learn to code c++ and claims to know a bit already and ye
 ## cant take his time to do his reasearch or get info on new patches/updates
 
 - ![image](offsets.png)
+
+# saying he wants to learn but continues to use ai instead of seeking help or learning from a website like https://learncpp.com
+
+- ![image](learn.png)
