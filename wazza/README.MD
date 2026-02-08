@@ -8,4 +8,4 @@ wazza says he wants to learn to code c++ and claims to know a bit already and ye
 
 
 ### being a bad person in general 
-- ![image](badperson.PNG)
+- ![image](badperrson.PNG)
