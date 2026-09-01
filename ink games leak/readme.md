@@ -16,4 +16,15 @@ These dudes really aren't smart
 <img width="481" height="451" alt="image" src="https://github.com/user-attachments/assets/9c8c866a-9c1e-4c08-b35b-a936eb1c2d2b" />
 <img width="510" height="463" alt="image" src="https://github.com/user-attachments/assets/922e47ef-8326-495e-a621-c2e46d4136ab" />
 
+## they also hacked other roblox groups
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/36e22d7b-97b5-44f9-aa7c-23493a060185" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a19867d-ce4a-4055-a148-a0eb56ed1f30" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cb20bef5-8dd4-4837-b26a-4f3b523c90fd" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4328d4d5-169b-4805-9254-0eabbd04fe47" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/b9adfcb7-b5aa-4aef-9b80-e363aa7bf220" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/93df375d-f7fe-43af-b93b-de34c7bc3886" />
+
+
+credits to swr_1 for help on discord
+
 # in progress of reversing the shit malware
