@@ -2,6 +2,10 @@
 
 These dudes really aren't smart
 
+## AI slop readme
+<img width="910" height="791" alt="image" src="https://github.com/user-attachments/assets/96266bfa-572b-4223-ab39-ba75919b6720" />
+
+
 ## SLN rat 💀
 <img width="1231" height="378" alt="image" src="https://github.com/user-attachments/assets/8ab730aa-0fed-424e-a0ef-078d24182367" />
 <img width="854" height="237" alt="image" src="https://github.com/user-attachments/assets/2a2c6580-0818-4e8e-91bf-fd868b67b31d" />
