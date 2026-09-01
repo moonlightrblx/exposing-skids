@@ -30,6 +30,7 @@ These dudes really aren't smart
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbf0eb69-25c0-488d-a9d1-a9c1444ae778" />
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/22995528-1fef-4c83-ac86-96d893749021" />
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/128f24b0-b8b1-4bc4-a2a5-7a7f580641a5" />
+<img width="970" height="844" alt="image" src="https://github.com/user-attachments/assets/02de62af-d266-46b4-a90f-139d5ab84ee7" />
 
 
 credits to swr_1 for help on discord
@@ -37,6 +38,7 @@ credits to swr_1 for help on discord
 # in progress of reversing the shit malware
 stage one of malware is a bat file with a bunch of junk and encrypted functions
 <img width="1194" height="572" alt="image" src="https://github.com/user-attachments/assets/c99dd926-dcfc-4fa3-9b0a-9a3580155369" />
+
 anti reversal checks
 ```
 if /I %username% admin if exist %temp%\VBE exit
